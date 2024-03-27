@@ -1,9 +1,11 @@
 ### Olá, seja bem vindo ao meu Github
-<p> Estou estudando atualmente sobre Python, para me tornar no futuro um analista de dados 🎲👨‍💻 </p>  
+<p> Estou estudando atualmente sobre Python/Streamlit/Pandas etc. E com essas ferramentas me tornarei em um futuro próximo um analista de dados 🎲👨‍💻 </p>  
 <p> Fique a vontade para ver meus repositórios✨ </p>  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevBrunoP&anuraghazra&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevBrunoP&layout=compact&count_private=true&show_icons=true&theme=radical&)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>Desistir nunca foi uma opção!🧩</p>
 
 <!--
 **DevBrunoP/DevBrunoP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
