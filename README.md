@@ -1,9 +1,8 @@
 ## Seja bem vindo ao meu Github
 ### Sobre min
-🧠 **Estudando sobre...** Python / Machine Learning / Pandas / LookerStudio / PowerBI / Estatísticas <br>
-🤖 **Minha especialidade:** Análise de dados / Automações com Python
 
-<p> Fique à vontade para ver meus repositórios, críticas construtivas são sempre bem vindas!😉 </p>
+Analista de desenvolvimento de sistemas com 2 anos de experiência multidisciplinar na área de dados, formado em ciências da computação com especialização em Gestão estratégia em U.X Design.
+Python hoje é minha especialidade, seja para análise de dados, automações de processos, desenvolvimento de dashboads ou pipeline de dados. Também possuo experiência em ferramentas como: Excel, Google Sheets, Looker Studo, Metodolgias Áges(Kanbam).
 
 ### Stats
 ###
