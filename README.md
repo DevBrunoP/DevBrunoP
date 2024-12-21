@@ -1,8 +1,21 @@
 ## Seja bem vindo ao meu Github
 ### Sobre min
 
-Analista de desenvolvimento de sistemas com 2 anos de experiência multidisciplinar na área de dados, formado em ciências da computação com especialização em Gestão estratégia em U.X Design.
-Python hoje é minha especialidade, seja para análise de dados, automações de processos, desenvolvimento de dashboads ou pipeline de dados. Também possuo experiência em ferramentas como: Excel, Google Sheets, Looker Studo, Metodolgias Áges(Kanbam).
+Analista de Desenvolvimento de Sistemas com mais de 2 anos de experiência multidisciplinar em projetos voltados para dados. Formado em Ciências da Computação com especialização em Gestão Estratégica e UX Design, combino habilidades técnicas e estratégicas para criar soluções que geram impacto real.
+Minha principal especialidade é Python, utilizado em diversas frentes como:
+
+- Análise de dados: extração de insights a partir de dados brutos;
+- Automação de processos: otimização de tarefas manuais e repetitivas;
+- Desenvolvimento de dashboards interativos: soluções visuais para monitoramento de métricas;
+- Criação de pipelines de dados: integração e transformação eficiente de dados.
+
+Além disso, tenho experiência em ferramentas e tecnologias complementares como:
+
+- Excel e Google Sheets: para análises rápidas e organização de dados;
+- Looker Studio e Power BI: para criação de relatórios visuais e dinâmicos;
+- Metodologias Ágeis (Kanban): para garantir eficiência e colaboração em equipe.
+
+Através dessas competências, contribuo para tomadas de decisão estratégicas, oferecendo soluções que alinham tecnologia e negócios para agregar valor às operações e melhorar resultados.
 
 ### Stats
 ###
